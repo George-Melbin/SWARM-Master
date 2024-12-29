@@ -1,18 +1,36 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+backup/*
+bin/*
+gui/*
+debug/*
+logs/*
+stats/*
+timeout/*
+x64/*
+admin/*
+build/export/*
+build/pid/*
+wallet/keys/*
+wallet/values/*
+wallet/wallets/*
+build/bash/dir.sh
+build/bash/config.sh
+build/bash/startup.sh
+swarm
+SWARM.bat
+config.json
+SWARM.conf
+build/data/error.txt
+build/data/info.txt
+build/data/system.txt
+build/data/timetable.txt
+build/data/deviation.txt
+build/data/lib.txt
+config/parameters/commandline.json
+config/parameters/newarguments.json
+config/parameters/Hive_params_keys.json
+config/parameters/SWARM_params_keys.json
+config/parameters/autofan.json
+config/power/power.json
+config/wallets/wallets.json
+build/bash/startup.sh
+build/cmd/dir.txt
